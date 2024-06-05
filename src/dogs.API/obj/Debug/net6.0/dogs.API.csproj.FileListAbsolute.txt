@@ -26,3 +26,14 @@ D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\dogs.AP
 D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\dogs.API.genruntimeconfig.cache
 D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\ref\dogs.API.dll
 D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\dogs.API.csproj.CopyComplete
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\appsettings.Production.json
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\Humanizer.dll
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\Npgsql.dll
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll

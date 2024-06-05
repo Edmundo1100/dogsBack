@@ -1,5 +1,7 @@
+using dogs.API.Database;
 using dogs.API.Repositories;
 using dogs.API.Repositories.usuario;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // REPOSITORIOS
+builder.Services.AddDbContext<DogsContext>(
+options => options.UseNpgsql(builder.Configuration.GetConnectionString("dogs"))
+);
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
 #endregion

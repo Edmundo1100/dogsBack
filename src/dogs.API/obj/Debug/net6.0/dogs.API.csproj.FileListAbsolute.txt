@@ -25,9 +25,4 @@ D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\refint\
 D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\dogs.API.pdb
 D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\dogs.API.genruntimeconfig.cache
 D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\ref\dogs.API.dll
-d:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\staticwebassets\msbuild.dogs.API.Microsoft.AspNetCore.StaticWebAssets.props
-d:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\staticwebassets\msbuild.build.dogs.API.props
-d:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.dogs.API.props
-d:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.dogs.API.props
-d:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\staticwebassets.pack.json
-d:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\dogs.API.csproj.Up2Date
+D:\3 - PROGRAMACAO\3 - CSharp\FullDog\back\src\dogs.API\obj\Debug\net6.0\dogs.API.csproj.CopyComplete

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj": {}
+    "D:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj": {}
   },
   "projects": {
-    "d:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj": {
+    "D:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj",
+        "projectUniqueName": "D:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj",
         "projectName": "dogs.API",
-        "projectPath": "d:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj",
+        "projectPath": "D:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj",
         "packagesPath": "C:\\Users\\edmun\\.nuget\\packages\\",
-        "outputPath": "d:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\obj\\",
+        "outputPath": "D:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -74,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.423\\RuntimeIdentifierGraph.json"
         }
       }
     }

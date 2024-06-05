@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3bZYesspYk=",
+  "dgSpecHash": "dw1TXA2Q5LRFgD1tZ9Ru6dShWaNRwD7X8dp9j3thEDIluxSbmH2sSTIxcTgBPW2nqgFO2cKnvdMCsGJ/tdvesw==",
   "success": true,
-  "projectFilePath": "d:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj",
+  "projectFilePath": "D:\\3 - PROGRAMACAO\\3 - CSharp\\FullDog\\back\\src\\dogs.API\\dogs.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edmun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\edmun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

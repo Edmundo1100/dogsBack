@@ -1,5 +1,9 @@
+using dogs.API.Repositories;
+using dogs.API.Repositories.usuario;
+
 var builder = WebApplication.CreateBuilder(args);
 
+#region ConfigureService
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -7,9 +11,14 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// REPOSITORIOS
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
+#endregion
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+#region  Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -23,3 +32,4 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+#endregion
